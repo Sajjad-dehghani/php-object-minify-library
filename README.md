@@ -1,0 +1,1 @@
+# php-object-minify-library
